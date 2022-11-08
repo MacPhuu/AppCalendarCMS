@@ -1,0 +1,124 @@
+{
+  "Event": [
+    {
+      "title": "Đi học",
+      "id": 3
+    },
+    {
+      "title": "Đi làm",
+      "id": 4
+    },
+    {
+      "title": "Đi chơi",
+      "imageURL": "",
+      "id": 5
+    }
+  ],
+  "warningList": [
+    {
+      "title": "Vào lúc diễn ra sự kiện",
+      "allDay": false,
+      "id": 1
+    },
+    {
+      "title": "Trước 5 phút",
+      "allDay": false,
+      "id": 2
+    },
+    {
+      "title": "Trước 10 phút",
+      "allDay": false,
+      "id": 3
+    },
+    {
+      "title": "Trước 2 tiếng",
+      "id": 4
+    },
+    {
+      "title": "Trước 1 ngày",
+      "id": 5
+    },
+    {
+      "title": "Trước 1 ngày",
+      "allDay": true,
+      "id": 6
+    },
+    {
+      "title": "Trước 2 ngày",
+      "allDay": true,
+      "id": 7
+    },
+    {
+      "title": "Trước 1 tuần",
+      "allDay": true,
+      "id": 8
+    },
+    {
+      "title": "Vào Ngày diễn ra sự kiện",
+      "allDay": true,
+      "id": 9
+    },
+    {
+      "title": "trước 1 tiếng",
+      "allDay": true,
+      "id": 10
+    },
+    {
+      "title": "Sau 20 phút",
+      "allDay": true,
+      "id": 14
+    },
+    {
+      "title": "Trước 1 ngày",
+      "allDay": false,
+      "id": 15
+    }
+  ],
+  "articleList": [
+    {
+      "title": "Báo dân trí 2023",
+      "genarals": "Phong thủy",
+      "author": "Kim Anh",
+      "link": "https://dantri.com.vn/the-thao/lewandowski-giup-barcelona-thang-dam-bayern-munich-ha-guc-inter-milan-20220908060431398.htm",
+      "display": false,
+      "date": "2022-3-7",
+      "id": 2
+    },
+    {
+      "title": "Báo dân trí 2022",
+      "genarals": "Phong thủy",
+      "author": "Kim Anh",
+      "link": "https://dantri.com.vn/the-thao/lewandowski-giup-barcelona-thang-dam-bayern-munich-ha-guc-inter-milan-20220908060431398.htm",
+      "date": "2022-3-7",
+      "display": false,
+      "id": 3
+    },
+    {
+      "title": "Xem phong thủy",
+      "genarals": "Tứ trụ",
+      "author": "Khởi Trần",
+      "link": "https://eva.vn/phong-thuy-c171.html",
+      "date": "2022-2-4",
+      "display": false,
+      "id": 4
+    },
+    {
+      "title": "Docs",
+      "genarals": "Tử vi",
+      "author": "quasar.dev",
+      "link": "https://quasar.dev",
+      "date": "2021-2-20",
+      "display": false,
+      "id": 5
+    },
+    {
+      "title": "Xem phong thủy",
+      "genarals": "Tứ trụ",
+      "author": "Khởi Trần",
+      "link": "https://eva.vn/phong-thuy-c171.html",
+      "date": "2022-12-4",
+      "display": false,
+      "id": 6
+    }
+  ]
+}
